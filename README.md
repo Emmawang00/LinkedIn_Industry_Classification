@@ -1,4 +1,4 @@
-# IDS 703 final project
+# NLP Project
 **Assessing the Effectiveness of Linkedin Company Description in Classifying Industry**
 
 *By Ya-Yun Huang, Emma Wang, Heather Qiu*
